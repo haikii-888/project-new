@@ -9,7 +9,7 @@ st.title("我的个人网页❤")
 st.divider()
 
 #添加图片
-st.image("C:\AItest\project new\qiuqiu.jpg",width=300)
+st.image("qiuqiu.jpg",width=300)
 
 #添加表格
 excel = pd.DataFrame({'学号':[1001,1002,1003], '班级':['一班','二班','三班'],'成绩':[92,67,80]})
